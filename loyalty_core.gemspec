@@ -1,12 +1,12 @@
 $:.push File.expand_path('../lib', __FILE__)
 
 # Maintain your gem's version:
-require 'loyalty_core/version'
+require 'core/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = 'loyalty_core'
-  s.version     = LoyaltyCore::VERSION
+  s.version     = Core::VERSION
   s.authors     = ['Emeric GAICHET']
   s.email       = ['egaichet@snapp.fr']
   s.homepage    = 'https://github.com/Poullou/loyalty_core'

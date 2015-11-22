@@ -1,4 +1,4 @@
-require "loyalty_core/engine"
+require 'core/engine'
 
-module LoyaltyCore
+module Core
 end

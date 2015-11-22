@@ -3,3 +3,7 @@
 .rbenv-gemsets
 
 .ruby-version
+
+test/dummy/log/test.log
+
+test/dummy/db/test.sqlite3
